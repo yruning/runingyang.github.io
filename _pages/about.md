@@ -14,3 +14,5 @@ Publications:
 1. [Optimization of Adaptable Prediction and Event- Triggered Replanning using Non-Model Based Methods](https://ieeexplore.ieee.org/abstract/document/9726827)
    
 2.[Certifiably Robust Neural ODE With Learning-Based Barrier Function](https://ieeexplore.ieee.org/document/10097636)
+
+[Email](mailto:yruning@vt.edu) [Wechat](../assets/Wechat.jpg)
