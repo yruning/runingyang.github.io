@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Runing Yang, a Ph.D. student from [Virginia Tech](https://www.vt.edu/), [Bradley's Department of Electrical and Computer Engineering](https://ece.vt.edu/). My research interests include Machine Learning, Reinforcement Learning, Control systems, and Foundation models. I am very fortunate to be advised by [Prof. Jin Ming](https://ece.vt.edu/people/profile/jinming.html). My CV can be found here: [Runing Yang's CV](https://github.com/yruning/runingyang.github.io/blob/master/files/202309_Yang_Runing_CV.pdf).
+I'm Runing Yang, a Ph.D. student from [Virginia Tech](https://www.vt.edu/), [Bradley's Department of Electrical and Computer Engineering](https://ece.vt.edu/). My research interests include Machine Learning, Reinforcement Learning, Control systems, and Foundation models. I am very fortunate to be advised by [Prof. Jin Ming](https://ece.vt.edu/people/profile/jinming.html). My CV can be found here: [Runing Yang's CV](https://github.com/yruning/runingyang.github.io/tree/master/files/202309_Yang_Runing_CV.pdf).
 
 Publications:
 1. [Optimization of Adaptable Prediction and Event- Triggered Replanning using Non-Model Based Methods](https://ieeexplore.ieee.org/abstract/document/9726827)
