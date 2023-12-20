@@ -15,4 +15,4 @@ Publications:
    
 2.[Certifiably Robust Neural ODE With Learning-Based Barrier Function](https://ieeexplore.ieee.org/document/10097636)
 
-[Email](mailto:yruning@vt.edu) [Wechat](../assets/Wechat.jpg)
+[Email](mailto:yruning@vt.edu) [Wechat](../assets/Wechat.JPG)
