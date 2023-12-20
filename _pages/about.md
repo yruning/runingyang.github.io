@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Runing Yang, a Ph.D. student from [Virginia Tech](https://www.vt.edu/), [Bradley's Department of Electrical and Computer Engineering](https://ece.vt.edu/). My research interests include Machine Learning, Reinforcement Learning, Control systems, and Foundation models. I am very fortunate to be advised by [Prof. Jin Ming](https://ece.vt.edu/people/profile/jinming.html).
+I'm Runing Yang, a Ph.D. student from [Virginia Tech](https://www.vt.edu/), [Bradley's Department of Electrical and Computer Engineering](https://ece.vt.edu/). My research interests include Machine Learning, Reinforcement Learning, Control systems, and Foundation models. I am very fortunate to be advised by [Prof. Jin Ming](https://ece.vt.edu/people/profile/jinming.html). My CV can be found here: [Runing Yang's CV](../assets/files/202309_Yang_Runing_CV.pdf).
 
 A data-driven personal website
 ======
