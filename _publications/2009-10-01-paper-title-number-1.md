@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Certifiably Robust Neural ODE With Learning-Based Barrier Function"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2023-01-14
+venue: 'IEEE'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Runing Yang. (2023). &quot;Certifiably Robust Neural ODE With Learning-Based Barrier Function; <i>IEEE-LCSS 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number increasing robustness of Nueral ODE models using learning-based Barrier Control Functions and providing theoritical guanrantees for the robust probability. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097636)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Runing Yang, You. (2023). "Certifiably Robust Neural ODE With Learning-Based Barrier Function"
