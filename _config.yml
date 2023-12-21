@@ -11,7 +11,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Runing Yang"
 description              : &description "I'm a PhD student form Virginia Tech ECE department."
-url                      : https://yruning.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yruning.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yruning/yruning.github.io"
 teaser                   : "my_image.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Runing Yang"
-  avatar           : "my_image.png"
+  avatar           : "../images/my_image.png"
   bio              : "Second-year Ph.D. student working on Machine Learning"
   location         : "Blacksburg, VA"
   employer         :
